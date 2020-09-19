@@ -45,9 +45,9 @@ Discord Rich Presence for web services!
     <th>Latest release</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/doomlerd/LinuxUpdater/actions"><img src="https://github.com/doomlerd/LinuxUpdater/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
+    <td><a href="https://github.com/doomlerd/LinuxUpdater/releases"><img src="https://img.shields.io/github/downloads/doomlerd/LinuxUpdater/total.svg?maxAge=86400" alt="All releases"></a></td>
+    <td><a href="https://github.com/doomlerd/LinuxUpdater/releases/latest"><img src="https://img.shields.io/github/v/release/doomlerd/LinuxUpdater.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/doomlerd/LinuxUpdater/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -114,7 +114,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 ### Installation instructions
 
 ```bash
-wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
+wget https://github.com/doomlerd/LinuxUpdater/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
 ```
 
 ```bash
