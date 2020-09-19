@@ -9,10 +9,10 @@
   "version": "2.2.17",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PreMiD/Linux.git"
+    "url": "git://github.com/doomlerd/LinuxUpdater.git"
   },
   "bugs": {
-    "url": "https://github.com/PreMiD/Linux/issues"
+    "url": "https://github.com/doomlerd/LinuxUpdater/issues"
   },
   "homepage": "https://premid.app",
   "license": "MPL-2.0",
@@ -46,8 +46,8 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "PreMiD",
-        "repo": "Linux",
+        "owner": "doomlerd",
+        "repo": "LinuxUpdater",
         "vPrefixedTagName": true,
         "releaseType": "release"
       }
